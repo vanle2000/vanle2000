@@ -7,9 +7,9 @@
 - 💬 Ask me about ...
 -->
 
-- 🌱 I’m a **New Grad in Computational and Applied Math at University at Buffalo**
+- 👩‍🎓 I’m a **New Grad in Computational and Applied Math at University at Buffalo**
   
-- 😄 Pronouns: she/her/hers
+- 👩‍💻 Pronouns: she/her/hers
   
 - 📫 How to reach me **vanle@buffalo.edu**
 
