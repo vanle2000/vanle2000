@@ -22,33 +22,24 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" width="40" height="40"/>
-  </a>
-  
-  <!--a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a --> 
-  
-  
-  <!--a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a--> 
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /> 
   </p>
 
   <h3 align="left">Frameworks & Libraries:</h3>
   <p align="left"> 
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="40" height="40"/> 
     </a> 
+    <a href="https://numpy.org" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width="40" heights="40"/>
+    </a>
     <a href="https://pytorch.org" target="_blank" rel="noreferrer"> 
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" width="40" heights="40"/>
     </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-      <src="" alt="sklearn" width="40" heaight="40"/>
+      <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" width="40" heaight="40"/>
     </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="PyTorch" width="40" heights="40"/>
@@ -74,7 +65,13 @@
     <a href="https://colab.research.google.com" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab" width="40" heights="40"/>
     </a>
-
+    <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> 
+     <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="rstudio" width="40" heights="40"/>
+    </a>
+    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" width="40" heights="40"/>
+    </a>
+    
       
   <h3 align="left">Databases:</h3>
   <p align="left"> 
