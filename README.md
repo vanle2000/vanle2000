@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Van Le</h1>
+<h1 align="center">Hi 👋, I'm ELizabeth Le</h1>
 <h3 align="center">A techie passionate about innovating data-driven solution to address hardship in real-world. I commit to constructing impactful and meaningful data narratives that contribute to informed decision-making, with a keen interest in translating complex information into actionable insights.</h3>
 
 <h3 align="center">I'm currently looking for entry data science/ data analyst position. </h3>
