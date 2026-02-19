@@ -13,7 +13,7 @@
   
 - 👩‍💻 Pronouns: she/her/hers
   
-- 📫 How to reach me **vanle@buffalo.edu**
+- 📫 How to reach me **lethaovann28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
