@@ -1,62 +1,64 @@
-<h1 align="center">Hi 👋, I'm Van (Elizabeth) </h1>
-<h3 align="center">A techie passionate about innovating data-driven solution to address hardship in real-world. I commit to constructing impactful and meaningful data narratives that contribute to informed decision-making, with a keen interest in translating complex information into actionable insights.</h3>
+# Van (Elizabeth) Le — Data Scientist
 
-<h3 align="center">I'm currently looking for entry data science/ data analyst position. </h3>
+---
 
+## Introduction
 
-<!--
-- 🔭 I’m currently working on ...
-- 💬 Ask me about ...
--->
+I'm a Data Scientist with a background in Computational and Applied Mathematics (University at Buffalo). I build end-to-end data pipelines, predictive models, and analytics platforms that turn complex, messy datasets into decisions.
 
-- 👩‍🎓 I’m a **New Grad in Computational and Applied Math at University at Buffalo**
-  
-- 👩‍💻 Pronouns: she/her/hers
-  
-- 📫 How to reach me **lethaovann28@gmail.com**
+My work spans public health surveillance, financial systems, developer experience analytics, and recommendation engines — always with a focus on **making the analysis honest, reproducible, and actionable**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/elizabethvanle/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
+---
 
-<h3 align="left">Languages:</h3>
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" /> 
-</p>
+## What I'm Working On
 
-  <h3 align="left">Frameworks & Libraries:</h3>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  </p>
+- Building ML pipelines for structured and time-series data at scale
+- Deepening expertise in causal inference, experimentation, and BI engineering
+- Exploring LLM applications in data-intensive workflows
 
-  <h3 align="left">Tools:</h3>
-  <p align="left"> 
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
-    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
-    
-  <h3 align="left">Databases:</h3>
-  <p align="left"> 
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  </p>
+---
+
+## Featured Projects
+
+| Project | What it does | Key tech |
+|---------|-------------|----------|
+| [Stock Recommendation System](https://github.com/vanle2000/Stock-based-Recommendation-System) | Predicts stock prices (R²=0.997) and recommends similar equities via autoencoder + cosine similarity | PySpark, LSTM, Streamlit |
+| [GitHub Support Analytics](https://github.com/vanle2000/GitHub-support-operations-analytics) | SLA breach prediction, sentiment volatility analysis, and developer retention intelligence | SQL Star Schema, VADER NLP, Power BI |
+| [Chronic Disease Risk Intelligence](https://github.com/vanle2000/Chronic-disease-risks-in-US) | Geographic clustering and mortality risk prediction across 20 years of CDC data | Random Forest, KMeans, GeoPandas |
+| [Marathon Performance Prediction](https://github.com/vanle2000/Analysis-marathon-result-and-predict-performance-of-runners) | Predicts finish times (R²=0.85) and classifies gender via KDE + Bayes theorem | SciPy KDE, Scikit-learn, SGD |
+| [Churn Predictive Modeling](https://github.com/vanle2000/Churn-Predictive-Modeling) | End-to-end customer churn prediction pipeline | XGBoost, SHAP, MLflow |
+
+---
+
+## Tech Stack
+
+**Languages:** Python · SQL · R · Scala · Bash
+
+**ML / DS:** Scikit-learn · TensorFlow · PyTorch · XGBoost · LightGBM · SHAP · Statsmodels
+
+**Data Engineering:** PySpark · Pandas · NumPy · SQLAlchemy · dbt (learning)
+
+**Databases:** MySQL · MongoDB · SQL Server · PostgreSQL
+
+**BI / Visualization:** Tableau · Power BI · Plotly · Seaborn · Matplotlib
+
+**Cloud / Tools:** AWS · Apache Spark · Streamlit · Google Colab · VS Code · Git
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabethvanle/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanle2000)
+
+**Email:** lethaovann28@gmail.com
+
+---
+
+## What to Improve or Explore Next
+
+- [ ] Add experiment tracking (MLflow / Weights & Biases) to all modeling projects
+- [ ] Publish technical write-ups on Medium or personal blog
+- [ ] Build a real-time data pipeline project (Kafka + Flink or Spark Streaming)
+- [ ] Add causal inference project (A/B testing framework or difference-in-differences)
+- [ ] Contribute to an open-source data science library
