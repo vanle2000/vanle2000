@@ -23,7 +23,7 @@ My work spans public health surveillance, financial systems, developer experienc
 | Project | What it does | Key tech |
 |---------|-------------|----------|
 | [Stock Recommendation System](https://github.com/vanle2000/Stock-based-Recommendation-System) | Predicts stock prices (R²=0.997) and recommends similar equities via autoencoder + cosine similarity | PySpark, LSTM, Streamlit |
-| [GitHub Support Analytics](https://github.com/vanle2000/GitHub-support-operations-analytics) | SLA breach prediction, sentiment volatility analysis, and developer retention intelligence | SQL Star Schema, VADER NLP, Power BI |
+| [GitHub Support Analytics](https://github.com/vanle2000/GitHub-support-operations-analytics) | SLA breach prediction, sentiment volatility analysis, and developer retention intelligence | SQL Star Schema, VADER NLP, Tableau |
 | [Chronic Disease Risk Intelligence](https://github.com/vanle2000/Chronic-disease-risks-in-US) | Geographic clustering and mortality risk prediction across 20 years of CDC data | Random Forest, KMeans, GeoPandas |
 | [Marathon Performance Prediction](https://github.com/vanle2000/Analysis-marathon-result-and-predict-performance-of-runners) | Predicts finish times (R²=0.85) and classifies gender via KDE + Bayes theorem | SciPy KDE, Scikit-learn, SGD |
 | [Churn Predictive Modeling](https://github.com/vanle2000/Churn-Predictive-Modeling) | End-to-end customer churn prediction pipeline | XGBoost, SHAP, MLflow |
