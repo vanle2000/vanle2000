@@ -1,4 +1,4 @@
-# Van (Elizabeth) Le — Data Scientist
+# Van (Elizabeth) Le — Data Scientist and Business Intelligent Engineer
 
 ---
 
