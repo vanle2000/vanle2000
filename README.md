@@ -6,7 +6,7 @@
 
 I'm a Data Scientist with a background in Computational and Applied Mathematics (University at Buffalo). I build end-to-end data pipelines, predictive models, and analytics platforms that turn complex, messy datasets into decisions.
 
-My work spans public health surveillance, financial systems, developer experience analytics, and recommendation engines — always with a focus on **making the analysis honest, reproducible, and actionable**.
+My work spans public health surveillance, financial systems, developer experience analytics, and recommendation engines and always with a focus on **making the analysis honest, reproducible, and actionable**.
 
 ---
 
@@ -34,7 +34,7 @@ My work spans public health surveillance, financial systems, developer experienc
 
 **Languages:** Python · SQL · R · Scala · Bash
 
-**ML / DS:** Scikit-learn · TensorFlow · PyTorch · XGBoost · LightGBM · SHAP · Statsmodels
+**ML / DS:** Scikit-learn · PyTorch · XGBoost · LightGBM · Statsmodels · AWS Bedrocks 
 
 **Data Engineering:** PySpark · Pandas · NumPy · SQLAlchemy · dbt (learning)
 
@@ -42,7 +42,7 @@ My work spans public health surveillance, financial systems, developer experienc
 
 **BI / Visualization:** Tableau · Power BI · Plotly · Seaborn · Matplotlib
 
-**Cloud / Tools:** AWS · Apache Spark · Streamlit · Google Colab · VS Code · Git
+**Cloud / Tools:** AWS ·  Hadoop · Streamlit · Google Colab · VS Code · Git
 
 ---
 
@@ -51,14 +51,13 @@ My work spans public health surveillance, financial systems, developer experienc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabethvanle/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanle2000)
 
-**Email:** lethaovann28@gmail.com
+**Email:** lethaovann28@gmail.com or vanle.vtl2000@gmail.com
 
 ---
 
-## What to Improve or Explore Next
+## What I'm currently exploring 
 
 - [ ] Add experiment tracking (MLflow / Weights & Biases) to all modeling projects
-- [ ] Publish technical write-ups on Medium or personal blog
 - [ ] Build a real-time data pipeline project (Kafka + Flink or Spark Streaming)
 - [ ] Add causal inference project (A/B testing framework or difference-in-differences)
-- [ ] Contribute to an open-source data science library
+- [ ] LLM and build knowledge-based AI agent cross industry
