@@ -1,16 +1,17 @@
-# Van (Elizabeth) Le — Data Scientist and Business Intelligent Engineer
-
+# Hi, this is Van (Elizabeth) 
 ---
 
-## Introduction
+## About me
 
 I'm a Data Scientist with a background in Computational and Applied Mathematics (University at Buffalo). I build end-to-end data pipelines, predictive models, and analytics platforms that turn complex, messy datasets into decisions.
 
 My work spans public health surveillance, financial systems, developer experience analytics, and recommendation engines and always with a focus on **making the analysis honest, reproducible, and actionable**.
 
+I'll start online MS in Computational Data Anlyst at Georgia Tech this Fall 2026.
+
 ---
 
-## What I'm Working On
+## 🛠 What I'm Working On
 
 - Building ML pipelines for structured and time-series data at scale
 - Deepening expertise in causal inference, experimentation, and BI engineering
@@ -46,7 +47,14 @@ My work spans public health surveillance, financial systems, developer experienc
 
 ---
 
-## Connect
+## 📚 Learning and Goals
+
+🎓 Currently studying LLM and GenAI
+📘 Passionate about building data-driven systems that are practical, explainable, and impactful.
+
+---
+
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabethvanle/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanle2000)
