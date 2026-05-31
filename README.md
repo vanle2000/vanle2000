@@ -5,7 +5,7 @@
 
 I'm a Data Scientist with a background in Computational and Applied Mathematics (University at Buffalo). I build end-to-end data pipelines, predictive models, and analytics platforms that turn complex, messy datasets into decisions.
 
-My work spans public health surveillance, financial systems, developer experience analytics, and recommendation engines and always with a focus on **making the analysis honest, reproducible, and actionable**.
+My work spans public health surveillance, financial data analysis, computational biology, developer experience analytics, and recommendation engines and always with a focus on **making the analysis honest, reproducible, and actionable**.
 
 I'll start online MS in Computational Data Anlyst at Georgia Tech this Fall 2026.
 
