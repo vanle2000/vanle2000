@@ -25,25 +25,23 @@ I'll start online MS in Computational Data Anlyst at Georgia Tech this Fall 2026
 |---------|-------------|----------|
 | [Stock Recommendation System](https://github.com/vanle2000/Stock-based-Recommendation-System) | Predicts stock prices (R²=0.997) and recommends similar equities via autoencoder + cosine similarity | PySpark, LSTM, Streamlit |
 | [GitHub Support Analytics](https://github.com/vanle2000/GitHub-support-operations-analytics) | SLA breach prediction, sentiment volatility analysis, and developer retention intelligence | SQL Star Schema, VADER NLP, Tableau |
-| [Chronic Disease Risk Intelligence](https://github.com/vanle2000/Chronic-disease-risks-in-US) | Geographic clustering and mortality risk prediction across 20 years of CDC data | Random Forest, KMeans, GeoPandas |
 | [Marathon Performance Prediction](https://github.com/vanle2000/Analysis-marathon-result-and-predict-performance-of-runners) | Predicts finish times (R²=0.85) and classifies gender via KDE + Bayes theorem | SciPy KDE, Scikit-learn, SGD |
-| [Churn Predictive Modeling](https://github.com/vanle2000/Churn-Predictive-Modeling) | End-to-end customer churn prediction pipeline | XGBoost, SHAP, MLflow |
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python · SQL · R · Scala · Bash
+**Languages:** Python · SQL · R · Bash
 
 **ML / DS:** Scikit-learn · PyTorch · XGBoost · LightGBM · Statsmodels · AWS Bedrocks 
 
-**Data Engineering:** PySpark · Pandas · NumPy · SQLAlchemy · dbt (learning)
+**Data Engineering:** PySpark · Pandas · NumPy · AWS · dbt (learning)
 
-**Databases:** MySQL · MongoDB · SQL Server · PostgreSQL
+**Databases:** MySQL · DuckDB · PostgreSQL
 
-**BI / Visualization:** Tableau · Power BI · Plotly · Seaborn · Matplotlib
+**BI / Visualization:** Tableau · Plotly · Seaborn · Matplotlib
 
-**Cloud / Tools:** AWS ·  Hadoop · Streamlit · Google Colab · VS Code · Git
+**Cloud / Tools:** AWS ·  Hadoop · Streamlit · Google Colab · VS Code · Claude CLI · Hermes Agent
 
 ---
 
