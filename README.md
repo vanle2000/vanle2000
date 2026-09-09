@@ -23,9 +23,10 @@ I'll start online MS in Computational Data Anlyst at Georgia Tech this Fall 2026
 
 | Project | What it does | Key tech |
 |---------|-------------|----------|
-| [Stock Recommendation System](https://github.com/vanle2000/Stock-based-Recommendation-System) | Predicts stock prices (R²=0.997) and recommends similar equities via autoencoder + cosine similarity | PySpark, LSTM, Streamlit |
+| [Recovering a Known Causal Effect from Deliberately Broken Data](https://github.com/vanle2000/criteo-uplift-causal#recovering-a-known-causal-effect-from-deliberately-broken-data) | Causal inference: DiD, PSM, IPW, doubly-robust, placebo tests, balance diagnosis, validated against RCT ground truth | SciPy KDE, Scikit-learn, SGD |
 | [GitHub Support Analytics](https://github.com/vanle2000/GitHub-support-operations-analytics) | SLA breach prediction, sentiment volatility analysis, and developer retention intelligence | SQL Star Schema, VADER NLP, Tableau |
-| [Marathon Performance Prediction](https://github.com/vanle2000/Analysis-marathon-result-and-predict-performance-of-runners) | Predicts finish times (R²=0.85) and classifies gender via KDE + Bayes theorem | SciPy KDE, Scikit-learn, SGD |
+| [Stock Recommendation System](https://github.com/vanle2000/Stock-based-Recommendation-System) | Predicts stock prices (R²=0.997) and recommends similar equities via autoencoder + cosine similarity | PySpark, LSTM, Streamlit |
+
 
 ---
 
