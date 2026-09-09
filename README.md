@@ -32,9 +32,9 @@ I'll start online MS in Computational Data Anlyst at Georgia Tech this Fall 2026
 
 ## Tech Stack
 
-**Languages:** Python · SQL · R · Bash
+**Programming & BI:** Python · SQL · R · Bash · Tableau · Plotly · Seaborn · Matplotlib
 
-**ML / DS:** Scikit-learn · PyTorch · XGBoost · LightGBM · Statsmodels · AWS Bedrocks 
+**ML / DS:** Scikit-learn · PyTorch · XGBoost · LightGBM · Statsmodels · Scipy DRLearner · CausalForestDML
 
 **Data Engineering:** PySpark · Pandas · NumPy · AWS · dbt (learning)
 
