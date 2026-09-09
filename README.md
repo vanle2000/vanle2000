@@ -3,11 +3,10 @@
 
 ## About me
 
-I'm a Data Scientist with a background in Computational and Applied Mathematics (University at Buffalo). I build end-to-end data pipelines, predictive models, and analytics platforms that turn complex, messy datasets into decisions.
+I'm a Data scientist with 2.5 years across analytics and data science, now owning production ML and LLM systems end-to-end. I build end-to-end data pipelines, traditional ML models, and analytics platforms that turn complex, unbalanced and messy datasets into decisions. 
 
-My work spans public health surveillance, financial data analysis, computational biology, developer experience analytics, and recommendation engines and always with a focus on **making the analysis honest, reproducible, and actionable**.
 
-I'll start online MS in Computational Data Anlyst at Georgia Tech this Fall 2026.
+I'm currently start my first semester of MS Computational Data Sciences at Georgia Tech. 
 
 ---
 
