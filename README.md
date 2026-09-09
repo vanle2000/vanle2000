@@ -32,17 +32,15 @@ I'll start online MS in Computational Data Anlyst at Georgia Tech this Fall 2026
 
 ## Tech Stack
 
-**Programming & BI:** Python · SQL · R · Bash · Tableau · Plotly · Seaborn · Matplotlib
+**Programming & BI:** Python · SQL · R · Bash · Tableau · Plotly · Seaborn · Matplotlib 
 
-**ML / DS:** Scikit-learn · PyTorch · XGBoost · LightGBM · Statsmodels · Scipy DRLearner · CausalForestDML
+**ML / DS:** Scikit-learn · PyTorch · XGBoost · LightGBM · Statsmodels · Scipy · DRLearner · CausalForestDML 
 
-**Data Engineering:** PySpark · Pandas · NumPy · AWS · dbt (learning)
+**Gen AI:** Claude CLI · Hermes Agent · OPENROUTER 
+
+**Data Engineering:** PySpark · AWS (S3, EMR, Athena) · dbt (learning) · ETL and pipeline design · Data modeling · Data quality and integrity checks · Hadoop · REST API integration
 
 **Databases:** MySQL · DuckDB · PostgreSQL
-
-**BI / Visualization:** Tableau · Plotly · Seaborn · Matplotlib
-
-**Cloud / Tools:** AWS ·  Hadoop · Streamlit · Google Colab · VS Code · Claude CLI · Hermes Agent
 
 ---
 
@@ -58,13 +56,11 @@ I'll start online MS in Computational Data Anlyst at Georgia Tech this Fall 2026
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabethvanle/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanle2000)
 
-**Email:** lethaovann28@gmail.com or vanle.vtl2000@gmail.com
+**Email:** vanle.vtl2000@gmail.com or lethaovann28@gmail.com
 
 ---
 
 ## What I'm currently exploring 
 
-- [ ] Add experiment tracking (MLflow / Weights & Biases) to all modeling projects
 - [ ] Build a real-time data pipeline project (Kafka + Flink or Spark Streaming)
-- [ ] Add causal inference project (A/B testing framework or difference-in-differences)
-- [ ] LLM and build knowledge-based AI agent cross industry
+- [ ] LLM-RAG and build knowledge-based AI agent cross industry
