@@ -22,7 +22,7 @@ I'm currently start my first semester of MS Computational Data Sciences at Georg
 
 | Project | What it does | Key tech |
 |---------|-------------|----------|
-| [Recovering a Known Causal Effect from Deliberately Broken Data](https://github.com/vanle2000/criteo-uplift-causal#recovering-a-known-causal-effect-from-deliberately-broken-data) | Causal inference: DiD, PSM, IPW, doubly-robust, placebo tests, balance diagnosis, validated against RCT ground truth | DRLearner, CausalForestDML, Sk-learn|
+| [Recovering a Known Causal Effect from Deliberately Broken Data](https://github.com/vanle2000/criteo-uplift-causal#recovering-a-known-causal-effect-from-deliberately-broken-data) | Causal inference: DiD, PSM, IPW, doubly-robust, placebo tests, balance diagnosis, validated against RCT ground truth | LightGBM, scikit-learn, statsmodels, FastAPI, Docker |
 | [GitHub Support Analytics](https://github.com/vanle2000/GitHub-support-operations-analytics) | SLA breach prediction, sentiment volatility analysis, and developer retention intelligence | SQL Star Schema, VADER NLP, Tableau |
 | [Stock Recommendation System](https://github.com/vanle2000/Stock-based-Recommendation-System) | Predicts stock prices (R²=0.997) and recommends similar equities via autoencoder + cosine similarity | PySpark, LSTM, Streamlit |
 
